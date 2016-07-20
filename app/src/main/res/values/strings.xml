@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IntentExample</string>
+    <string name="enter_detail">Enter detail page</string>
+    <string name="leave_detail">Leave detail page</string>
+</resources>
